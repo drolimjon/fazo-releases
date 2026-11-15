@@ -1,9 +1,9 @@
 
-<h1 align="center">FAZO — торговый терминал нового поколения</h1>
-
 <p align="center">
  <img width="1474" height="509" alt="Fazo" src="https://github.com/user-attachments/assets/f3ff0da9-e7a4-492f-ba07-5e4c4e5e1a90" />
 </p>
+
+<h1 align="center">FAZO — торговый терминал нового поколения</h1>
 
 <p align="center">
   <b>Графики уровня TradingView · Торговля с графика · Стратегии Smart Money · ИИ-аналитик</b><br>
