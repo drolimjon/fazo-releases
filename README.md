@@ -1,9 +1,10 @@
 # FAZO — ТОРГОВЫЙ ТЕРМИНАЛ
-
+<img width="1474" height="509" alt="Fazo" src="https://github.com/user-attachments/assets/f3ff0da9-e7a4-492f-ba07-5e4c4e5e1a90" />
 Профессиональный терминал для трейдеров в стиле TradingView:
 графики MT5, Binance, Bybit и cTrader, стратегии SMC, Elliott Wave,
 TRADING HUB и Trend Following, торговля прямо с графика и встроенный
 ИИ-аналитик (Claude, OpenAI, DeepSeek).
+
 
 ## Установка
 1. Скачайте последнюю версию в разделе **Releases** справа.
