@@ -62,13 +62,26 @@ Fazo создан трейдером для трейдеров. Всё, что �
 
 Каждый элемент настраивается: цвет, толщина линии, прозрачность заливки.
 
+## ❇️ Меню настройка TRADING HUB
 <p align="center">
   <img width="1920" height="1033" alt="219" src="https://github.com/user-attachments/assets/cb342f53-6b72-455f-969b-2a204d106f12" />
   </p>
 
-  <img width="1920" height="1033" alt="221" src="https://github.com/user-attachments/assets/520a2f0f-c9a4-4704-b239-5868ee3d0f70" />
-
+## ❇️ Меню настройка ВОЛНА ЭЛИОТ
+<p align="center">
+ <img width="1920" height="1033" alt="225" src="https://github.com/user-attachments/assets/17f560d4-3cf8-46f8-99e3-78816e7613c4" />
 </p>
+
+## ❇️ Меню настройка Trend Following
+<p align="center">
+ <img width="1920" height="1033" alt="226" src="https://github.com/user-attachments/assets/7fef3027-7d58-4e94-98a4-5bd15d6a6d8f" />
+</p>
+
+## ❇️ Меню настройка SMC Smart Mony Conception
+<p align="center">
+ <img width="1920" height="1033" alt="227" src="https://github.com/user-attachments/assets/306d78c3-30f7-430e-b050-d0c4e7f9ee74" />
+</p>
+
 
 ## 💹 Торговля прямо с графика
 
